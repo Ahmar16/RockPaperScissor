@@ -1,4 +1,4 @@
-markdown
+
 # 🎮 Rock Paper Scissors – Java Console Game
 
 This is a beginner-friendly **Rock-Paper-Scissors** game written in Java, where the user battles against the computer in a loop until they choose to stop playing.
